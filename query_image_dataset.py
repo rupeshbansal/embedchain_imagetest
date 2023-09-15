@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(0, "/Users/rupeshbansal/embedchain")
+
 from embedchain import App
 from embedchain.config.llm.base_llm_config import BaseLlmConfig
 

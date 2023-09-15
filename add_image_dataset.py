@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, "/Users/rupeshbansal/embedchain")
 import os
 
 from embedchain import App
